@@ -6,4 +6,4 @@ Slug: presentación
 Author: Oppten
 Summary: Una corta presentación sobre nuestro blog
 
-Hola mundo
+Este blog contiene información relevante sobre el proceso de creación, construcción, aprendizaje de Oppten.
