@@ -25,9 +25,10 @@ LINKS =  (('Oppten', 'http://oppten.com/'),
           ('Ypursite?', '#'),)
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/oppten'),
-          ('linkedin', 'https://www.linkedin.com/company/oppten'),
-          ('github', 'http://github.com/oppten'),)
+SOCIAL = (('Twitter', 'http://twitter.com/oppten'),
+	  ('Facebook', 'http://facebook.com/oppten'),
+          ('Linkedin', 'https://www.linkedin.com/company/oppten'),
+          ('Github', 'http://github.com/oppten'),)
 
 DEFAULT_PAGINATION = 10
 
