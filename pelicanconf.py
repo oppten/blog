@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Oppten'
 SITENAME = u'Oppten Blog'
-SITEURL = 'http://oppten.github.io'
+SITEURL = 'http://blog.oppten.com'
 THEME = u'pelican-bootstrap3'
-BOOTSTRAP_THEME = u''
+BOOTSTRAP_THEME = u'cerulean'
 TIMEZONE = 'America/Bogota'
 
 DEFAULT_LANG = u'es'
@@ -17,12 +17,21 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 AUTHOR_FEED_RSS = 'feeds/%s.rss.xml'
 AUTHOR_FEED_RSS = 'feeds/%s.rss.xml'
 TRANSLATION_FEED_RSS = 'feeds/all-%s.rss.xml'
+CC_LICENSE = "CC-BY-NC-SA"
+DISPLAY_TAGS_ON_SIDEBAR = True
+DISPLAY_CATEGORIES_ON_SIDEBAR = True
+DISPLAY_BREADCRUMBS = True
+DISPLAY_CATEGORY_IN_BREADCRUMBS = True
+SITELOGO = 'images/logo.png'
+CUSTOM_CSS = 'static/custom.css'
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = True
 
 # Blogroll
 LINKS =  (('Oppten', 'http://oppten.com/'),
           ('VidaNP', 'http://vidanp.wordpress.com/'),
           ('Nasa', 'http://nasa.gov/'),
-          ('Ypursite?', '#'),)
+         )
 
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/oppten'),
