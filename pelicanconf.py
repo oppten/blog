@@ -7,23 +7,23 @@ SITENAME = u'Oppten Blog'
 SITEURL = 'http://blog.oppten.com'
 THEME = u'pelican-bootstrap3'
 BOOTSTRAP_THEME = u'cerulean'
+FAVICON = u'images/favicon.png'
 TIMEZONE = 'America/Bogota'
 
 DEFAULT_LANG = u'es'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_RSS = 'feeds/all.rss.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
-AUTHOR_FEED_RSS = 'feeds/%s.rss.xml'
-AUTHOR_FEED_RSS = 'feeds/%s.rss.xml'
-TRANSLATION_FEED_RSS = 'feeds/all-%s.rss.xml'
-CC_LICENSE = "CC-BY-NC-SA"
+FEED_ALL_RSS = u'feeds/all.rss.xml'
+CATEGORY_FEED_RSS = u'feeds/%s.rss.xml'
+AUTHOR_FEED_RSS = u'feeds/%s.rss.xml'
+AUTHOR_FEED_RSS = u'feeds/%s.rss.xml'
+TRANSLATION_FEED_RSS = u'feeds/all-%s.rss.xml'
+CC_LICENSE = u'CC-BY-NC-SA'
 DISPLAY_TAGS_ON_SIDEBAR = True
 DISPLAY_CATEGORIES_ON_SIDEBAR = True
 DISPLAY_BREADCRUMBS = True
 DISPLAY_CATEGORY_IN_BREADCRUMBS = True
-SITELOGO = 'images/logo.png'
-CUSTOM_CSS = 'static/custom.css'
+SITELOGO = u'images/logo.png'
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 
@@ -43,3 +43,5 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+STATIC_PATHS = ["images", ]
