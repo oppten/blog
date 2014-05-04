@@ -1,0 +1,6 @@
+*.pyc
+*.pid
+*.swp
+*~
+output/
+virtual/
