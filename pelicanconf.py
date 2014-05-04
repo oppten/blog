@@ -3,10 +3,11 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Oppten'
-SITENAME = u'Oppten Blog'
-SITEURL = 'http://blog.oppten.com'
+SITENAME = u''
+#SITEURL = 'http://blog.oppten.com'
 THEME = u'pelican-bootstrap3'
-BOOTSTRAP_THEME = u'cerulean'
+BOOTSTRAP_THEME = u'oppten'
+CUSTOM_CSS = u'static/custom.css'
 FAVICON = u'images/favicon.png'
 TIMEZONE = 'America/Bogota'
 
@@ -14,6 +15,7 @@ DEFAULT_LANG = u'es'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_RSS = u'feeds/all.rss.xml'
+GOOGLE_ANALYTICS = u'UA-32657044-1'
 CATEGORY_FEED_RSS = u'feeds/%s.rss.xml'
 AUTHOR_FEED_RSS = u'feeds/%s.rss.xml'
 AUTHOR_FEED_RSS = u'feeds/%s.rss.xml'
@@ -21,12 +23,15 @@ TRANSLATION_FEED_RSS = u'feeds/all-%s.rss.xml'
 CC_LICENSE = u'CC-BY-NC-SA'
 DISPLAY_TAGS_ON_SIDEBAR = True
 DISPLAY_CATEGORIES_ON_SIDEBAR = True
-DISPLAY_BREADCRUMBS = True
-DISPLAY_CATEGORY_IN_BREADCRUMBS = True
+DISPLAY_BREADCRUMBS = False
+DISPLAY_CATEGORY_IN_BREADCRUMBS = False
 SITELOGO = u'images/logo.png'
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
-
+MENUITEMS = (('Oppten','http://oppten.com'),)
+TWITTER_USERNAME = u'oppten'
+ADDTHIS_PROFILE = U'ra-536686c31796168b'
+DISQUS_SITENAME =  u'oppten'
 # Blogroll
 LINKS =  (('Oppten', 'http://oppten.com/'),
           ('VidaNP', 'http://vidanp.wordpress.com/'),
