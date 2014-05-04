@@ -6,15 +6,17 @@ AUTHOR = u'Oppten'
 SITENAME = u'Oppten Blog'
 SITEURL = 'http://oppten.github.io'
 THEME = u'pelican-bootstrap3'
-BOOTSTRAP_THEME = u'cosmo'
+BOOTSTRAP_THEME = u''
 TIMEZONE = 'America/Bogota'
 
 DEFAULT_LANG = u'es'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+AUTHOR_FEED_RSS = 'feeds/%s.rss.xml'
+AUTHOR_FEED_RSS = 'feeds/%s.rss.xml'
+TRANSLATION_FEED_RSS = 'feeds/all-%s.rss.xml'
 
 # Blogroll
 LINKS =  (('Oppten', 'http://oppten.com/'),
@@ -23,8 +25,9 @@ LINKS =  (('Oppten', 'http://oppten.com/'),
           ('Ypursite?', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'http://twitter.com/oppten'),
+          ('linkedin', 'https://www.linkedin.com/company/oppten'),
+          ('github', 'http://github.com/oppten'),)
 
 DEFAULT_PAGINATION = 10
 
