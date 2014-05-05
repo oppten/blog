@@ -1,9 +1,10 @@
-Title: Blog del equipo Oppten
+Title: Porqué hacemos Oppten?
 Date: 2014-04-30 23:20
-Category: opinión
-Tags: opinion, oppten
-Slug: presentación
+Category: Opinión
+Tags: oppten
+Slug: presentacion
 Author: Nicolás Bohórquez
+Email:  nicolas@oppten.com
 Summary: Porqué queremos mejorar los procesos de contratación?, es una pregunta recurrente en las entrevistas y conversaciones que tenemos acerca de Oppten, me gustaría comentar un poco la forma en la que construimos nuestra visión.
 
 Generalmente a [Henry](http://twitter.com/tufla "Henry Canastero, Oppten") y a [mí](http://twitter.com/nickmancol "Nicolás Bohórquez, Oppten") nos preguntan,  porqué hacemos esto?. Sabemos que [Oppten](http://oppten.com "Oppten, licitaciones, contratos, inteligencia de negocios") no es una plataforma orientada a consumidores finales (*B2C*),
