@@ -32,6 +32,7 @@ DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 MENUITEMS = (('Oppten','http://oppten.com'),)
 TWITTER_USERNAME = u'oppten'
+TWITTER_WIDGET_ID = u'463306257357484034'
 ADDTHIS_PROFILE = U'ra-536686c31796168b'
 PELICAN_COMMENT_SYSTEM = True
 DISQUS_SITENAME =  u'oppten.disqus.com'
@@ -43,6 +44,8 @@ PLUGINS = ['assets', 'sitemap', 'gravatar', 'related_posts', 'liquid_tags', 'gal
 LINKS =  (('Oppten', 'http://oppten.com/'),
           ('VidaNP', 'http://vidanp.wordpress.com/'),
           ('Nasa', 'http://nasa.gov/'),
+          ('SocialAtom', 'http://socialatomgroup.com/'),
+          ('NxtpLabs', 'http://nxtplabs.com/'),
          )
 
 # Social widget
