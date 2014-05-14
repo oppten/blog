@@ -35,7 +35,7 @@ TWITTER_USERNAME = u'oppten'
 TWITTER_WIDGET_ID = u'463306257357484034'
 ADDTHIS_PROFILE = U'ra-536686c31796168b'
 PELICAN_COMMENT_SYSTEM = True
-DISQUS_SITENAME =  u'oppten.disqus.com'
+DISQUS_SITENAME =  u'oppten'
 PLUGIN_PATH = 'pelican-plugins'
 PLUGINS = ['assets', 'sitemap', 'gravatar', 'related_posts', 'liquid_tags', 'gallery','multi_part','neighbors', 
 	   'pelican_vimeo', 'pelican_youtube','simple_footnotes','post_stats']
