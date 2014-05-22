@@ -17,4 +17,4 @@ Finalmente, en el siguiente gráfico hemos condensado algunos datos interesantes
 
 [Descargar]({filename}/pdfs/Mexico2013.pdf)
 
-![México Distrito Federal Guadalajara Licitaciones Contratos Oppten]({filename}/images/peru/Peru2013.svg)
+![México Distrito Federal Guadalajara Licitaciones Contratos Oppten]({filename}/images/mexico/Mexico2013.svg)
