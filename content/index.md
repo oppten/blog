@@ -1,7 +1,7 @@
 Title: Porqué hacemos Oppten?
 Date: 2014-04-30 23:20
-Category: Opinión
-Tags: oppten
+Category: Points
+Tags: Oppten
 Slug: presentacion
 Author: Nicolás Bohórquez
 Email:  nicolas@oppten.com

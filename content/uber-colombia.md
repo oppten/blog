@@ -1,6 +1,6 @@
 Title: Emprender en Colombia, el caso de #Uber
 Date: 2014-05-05 09:36
-Category: Opinión
+Category: Points
 Tags: aseco
 Slug: uber-en-colombia
 Author: Nicolás Bohórquez
