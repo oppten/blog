@@ -17,6 +17,6 @@ En [Oppten](http://www.oppten.cl/?utm_source=blog&utm_medium=socialmedia&utm_ter
 
 Finalmente, en el siguiente gráfico hemos condensado algunos datos interesantes sobre el mercado de compras públicas en Chile para el año 2013, sus comentarios sobre las formas en las que podemos usar la tecnología para mejorar el estado son bienvenidos.
 
-[Descargar](https://github.com/oppten/oppten.github.io/raw/master/pdfs/Chile2013.pdf)
+[Descargar]({filename}/pdfs/Chile2013.pdf)
 
-<iframe src="http://docs.google.com/viewer?url=https%3A%2F%2Fgithub.com%2Foppten%2Foppten.github.io%2Fraw%2Fmaster%2Fpdfs%2FChile2013.pdf&embedded=true" width="800" height="1600" style="border: none;"></iframe>
+![Chile Santiago Region Metropolitana Licitaciones Contratos Oppten]({filename}/images/chile/Chile2013.svg)

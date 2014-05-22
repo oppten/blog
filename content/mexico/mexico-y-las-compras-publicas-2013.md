@@ -15,6 +15,6 @@ En [Oppten](http://www.oppten.mx/?utm_source=blog&utm_medium=socialmedia&utm_ter
 
 Finalmente, en el siguiente gráfico hemos condensado algunos datos interesantes sobre el mercado de compras públicas en México para el año 2013, sus comentarios sobre las formas en las que podemos usar la tecnología para mejorar el estado son bienvenidos.
 
-[Descargar](https://github.com/oppten/oppten.github.io/raw/master/pdfs/Mexico2013.pdf)
+[Descargar]({filename}/pdfs/Mexico2013.pdf)
 
-<iframe src="http://docs.google.com/viewer?url=https%3A%2F%2Fgithub.com%2Foppten%2Foppten.github.io%2Fraw%2Fmaster%2Fpdfs%2FMexico2013.pdf&embedded=true" width="800" height="1600" style="border: none;"></iframe>
+![México Distrito Federal Guadalajara Licitaciones Contratos Oppten]({filename}/images/peru/Peru2013.svg)
