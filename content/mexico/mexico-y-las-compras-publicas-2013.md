@@ -7,6 +7,7 @@ Author: Nicolás Bohórquez
 Email:  nicolas@oppten.com
 Summary: En el 2013 el mercado de compras púbicas en México superó los USD 29000 millones, sin embargo el índice de participación es muy bajo.
 
+<img src="/images/mexico/Mexico2013_thumbnail.png" alt="Licitaciones 2013 Mexico" align="left" style="margin-right:10px;"/>
 Con más de 140 mil oportunidades de negocio al año valoradas en cerca de USD 29000 millones el mercado de compras públicas (licitaciones, contratos) es una gran alternativa para las empresas interesadas en trabajar con el estado. Aún así en promedio solo se presentan dos ofertas por cada oportunidad, es un índice muy bajo si lo comparamos con otro país de la Alianza del Pacífico como [Chile]({filename}/chile/chile-y-las-compras-publicas-2013.md "Licitaciones y oportunidades de negocio en Chile") (cinco ofertas por oportunidad).
 
 Creemos que esto esta correlacionado con dos variables, primero, el indice de percepción de transparencia de cada país -medido por [Transparencia Internacional](http://www.transparency.org/cpi2013 "Índice de percepción de transparencia")-, mientras que en México se mueve en la franja de 3-4, Chile lo hace sobre la franja de 7-8 sobre 10, que no es un hecho menor. La segunda variable que creemos tiene alguna relación es el porcentaje de participación de empresas como proveedores estatales, mientras que en México se acerca al 4% (estimado) en Chile se acerca al 12% (estimado).
