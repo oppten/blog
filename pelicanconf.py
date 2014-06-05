@@ -44,8 +44,8 @@ PLUGINS = ['assets', 'sitemap', 'gravatar', 'related_posts', 'liquid_tags', 'gal
 LINKS =  (('Oppten', 'http://oppten.com/'),
           ('VidaNP', 'http://vidanp.wordpress.com/'),
           ('Nasa', 'http://nasa.gov/'),
-          ('SocialAtom', 'http://socialatomgroup.com/'),
           ('NxtpLabs', 'http://nxtplabs.com/'),
+          ('SocialAtom', 'http://socialatomgroup.com/'),
          )
 
 # Social widget
