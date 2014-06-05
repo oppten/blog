@@ -2,7 +2,7 @@ Title: Porqué hacemos Oppten?
 Date: 2014-04-30 23:20
 Category: Points
 Tags: Oppten
-Slug: presentacion
+Slug: presentación
 Author: Nicolás Bohórquez
 Email:  nicolas@oppten.com
 Summary: Porqué queremos mejorar los procesos de contratación?, es una pregunta recurrente en las entrevistas y conversaciones que tenemos acerca de Oppten, me gustaría comentar un poco la forma en la que construimos nuestra visión.
