@@ -16,7 +16,7 @@ DEFAULT_LANG = u'es'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_RSS = u'feeds/all.rss.xml'
-GOOGLE_ANALYTICS = u'UA-32657044-1'
+GOOGLE_ANALYTICS_UNIVERSAL = u'UA-32657044-1'
 CATEGORY_FEED_RSS = u'feeds/%s.rss.xml'
 AUTHOR_FEED_RSS = u'feeds/%s.rss.xml'
 AUTHOR_FEED_RSS = u'feeds/%s.rss.xml'
